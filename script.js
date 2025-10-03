@@ -10,7 +10,7 @@ form.addEventListener("submit", function (event) {
 
   // Validation
   if (!nname || !aage) {
-    alert("Please enter valid details.");
+     alert("Please enter valid details");
     return;
   }
 
